@@ -36,7 +36,7 @@ the order of display of alphabets. The input from the IR pin controls the order
 of alphabets to display.
 Issues faced: -
 1. Setting the delay time was totally trial and error method.
-2. The RPM couldn’t be maintained as expected.
+2. The RPM couldn’t be maintained as expected initially
 3. The 9V battery used wasn’t a reliable option in long term applications.
 4. The RPM was low because of the heavy body weight and it was not
 aerodynamic.
