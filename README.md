@@ -29,7 +29,7 @@ attached to one of the fins. The DC motor is fixed on the center piece.
 Explanation of code: -
 The initial declarations are the binary representation of all the alphabets on
 the POV display. The next few declarations are initializing the Arduino pins.
-The IR pin is also declared 2. Next is the setup function. In this IR pin is
+The IR pin is also declared 2. Next is setup function. In this IR pin is
 declared as an input. Next is the print Letter function. This takes the binary
 code of alphabets and assigns it to the 8 LEDs. Next, the ‘loop function’ gives
 the order of display of alphabets. The input from the IR pin controls the order
